@@ -1,6 +1,6 @@
 # Analytics Engineering with Airbnb
 
-Simulate the life of an Analytics Engineer at Airbnb through this comprehensive project, delving into data loading, cleansing, and exposure. The project emphasizes the use of various dbt functionalities with Snowflake as the Data Warehouse. Explore a range of dbt features, including models, materializations, tests, documentation, sources, seeds, snapshots, hooks, operations, Jinja, macros, analyses, exposures, seeds, and preset visualizations.
+This project aims to simulate an Analytics Engineering solution tailored for Airbnb's operations in the city of Berlin. It encompasses processes involving data loading, cleansing, and exposure. Additionally, the project delves into testing, automation, and documentation processes to ensure a comprehensive analytics solution.
 
 ## Tech Stack
 
