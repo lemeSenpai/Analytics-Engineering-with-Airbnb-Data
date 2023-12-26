@@ -1,0 +1,16 @@
+version: 2
+
+exposures:
+  - name: Executive Dashboard
+    type: dashboard
+    maturity: low
+    url: ..\assets\powerbi-report.pbix
+    description: Executive Dashboard about Airbnb listings and hosts
+
+    depends_on:
+      - ref('dim_listings_w_hosts')
+      - ref('mart_fullmoon_reveiws')
+
+    owner:
+      name: leme
+      email: <EMAIL>
