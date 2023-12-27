@@ -5,8 +5,8 @@ Welcome to the Airbnb Analytics Engineering project, where we'll delve into the 
 ## Tech Stack
 
 <p align="left">
-  <img src="assets/dbt-logo.png" alt="dbt - Data Build Tool" width="30%" style="margin-right: 10px;" />
-  <img src="assets/snowflake-logo.png" alt="Snowflake Data Warehouse" width="30%" style="margin-right: 10px;" />
+  <img src="assets/dbt-logo.png" alt="dbt - Data Build Tool" width="30%" style="margin-right: 15px;" />
+  <img src="assets/snowflake-logo.png" alt="Snowflake Data Warehouse" width="30%" style="margin-right: 15px;" />
   <img src="assets/powerbi-logo.png" alt="Power BI" width="30%" />
 </p>
 
